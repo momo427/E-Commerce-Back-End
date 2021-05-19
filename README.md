@@ -6,11 +6,12 @@ AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 
-## Video
+## Mock Up 
 
 ![See Assets](Assets/Untitled_ May 18, 2021 7_47 AM.gif)
 ![See Assets](Assets/Untitled_ May 19, 2021 8_16 AM.gif)
 ![See Assets](Assets/Untitled_ May 19, 2021 8_08 AM.gif)
+![See Assets](Assets/Untitled_ May 19, 2021 8_29 AM.gif)
 
 ## Usage
 
