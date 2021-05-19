@@ -8,8 +8,9 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Video
 
-![](Assets/Untitled_ May 18, 2021 7_47 AM.gif)
-![](Assets/Untitled_ May 18, 2021 8_01 AM.gif)
+![See Assets](Assets/Untitled_ May 18, 2021 7_47 AM.gif)
+![See Assets](Assets/Untitled_ May 19, 2021 8_16 AM.gif)
+![See Assets](Assets/Untitled_ May 19, 2021 8_08 AM.gif)
 
 ## Usage
 
